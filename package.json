@@ -1,0 +1,38 @@
+{
+  "name": "express-v5-mongo-sanitize",
+  "version": "1.0.0",
+  "description": "Express v5.x.x mongo sanitize compatibility ",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyBuffon/express-v5-mongo-sanitize.git"
+  },
+  "keywords": [
+    "express",
+    "mongo",
+    "mongodb",
+    "sanitize",
+    "middleware",
+    "operator",
+    "injection",
+    "security"
+  ],
+  "author": "TonyBuffon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TonyBuffon/express-v5-mongo-sanitize/issues"
+  },
+  "homepage": "https://github.com/TonyBuffon/express-v5-mongo-sanitize#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.2",
+    "chai": "^5.2.0",
+    "eslint": "^9.27.0",
+    "express": "^5.1.0",
+    "prettier": "^3.5.3",
+    "tsd": "^0.32.0"
+  }
+}
